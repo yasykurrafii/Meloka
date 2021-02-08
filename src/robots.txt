@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://aktivishijau.social/sitemap.xml
+Host: https://aktivishijau.social
